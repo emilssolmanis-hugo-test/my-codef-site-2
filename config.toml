@@ -1,6 +1,6 @@
 title = "Notre-Dame de Paris"
 baseURL = "https://heuristic-hopper-56b0c7.netlify.app"
-languageCode = "en-us"
+languageCode = "en-gb"
 theme = "ananke"
 themesDir = "themes"
 
